@@ -1,16 +1,16 @@
 ## 💜 Olá, meu nome é <strong>{escreva seu nome aqui}!</strong>
 
+<img src="https://uploaddeimagens.com.br/images/004/016/741/full/Post_Instagram_-_Du%CC%81vida_Nutricionista_Comer_Doce_Barra_de_Pesquisa-removebg-preview.png?1662753639" min-width="400px" max-width="400px" width="400px" align="left" alt="COLOQUE O ALT DA IMAGEM AQUI">
+
 > Escreva um textinho com uma breve aprensentação sobre você e o que você faz profissionalmente.
 
 🔭 Escreva algum projeto que você tem orgulho de ter desenvolvido ou que atualmente esteja trabalhando nele.
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. Solte a imaginação!
 
-<img src="https://uploaddeimagens.com.br/images/004/016/741/full/Post_Instagram_-_Du%CC%81vida_Nutricionista_Comer_Doce_Barra_de_Pesquisa-removebg-preview.png?1662753639" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ----
 
-## 🚀 Minhas Skills
+### 🚀 Minhas Skills
 
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -28,12 +28,12 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+### ⭐ Informações sobre minha conta GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanaidev&show_icons=true&theme=radical)
 
 ---
 
-## Contact
+### Contact
 
 <p align="left">
   💌 Como me encontrar para entrar em contato: ⤵️
