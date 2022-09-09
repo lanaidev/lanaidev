@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{escreva seu nome aqui}!</strong>
 
-<img src="https://uploaddeimagens.com.br/images/004/016/741/full/Post_Instagram_-_Du%CC%81vida_Nutricionista_Comer_Doce_Barra_de_Pesquisa-removebg-preview.png?1662753639" min-width="400px" max-width="400px" width="400px" align="left" alt="COLOQUE O ALT DA IMAGEM AQUI">
+<img src="https://uploaddeimagens.com.br/images/004/016/741/full/Post_Instagram_-_Du%CC%81vida_Nutricionista_Comer_Doce_Barra_de_Pesquisa-removebg-preview.png?1662753639" min-width="500px" max-width="500px" width="500px" align="right" alt="COLOQUE O ALT DA IMAGEM AQUI">
 
 > Escreva um textinho com uma breve aprensentação sobre você e o que você faz profissionalmente.
 
